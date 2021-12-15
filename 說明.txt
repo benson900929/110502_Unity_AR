@@ -1,0 +1,9 @@
+Card 掛上此卡片名字用
+CardTooltip 在場景中添加（決定卡片選單要掛在哪）
+Sample 取得用戶正在點選哪張卡片的方式（決定要跳轉至哪裡）
+
+CardDecks：
+	CardDeckInterface 卡片選單物件接口
+	PieCardDeck-----------------
+	RingCardDeck                |不同的卡片排列方式（我們選用SimpleCurvedCardDeck）
+	SimpleCurvedCardDeck--------
